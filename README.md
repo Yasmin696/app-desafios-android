@@ -37,6 +37,6 @@ Ajudar usuários a criarem hábitos positivos por meio de desafios diários, aco
 Projeto desenvolvido para fins de estudo e prática em desenvolvimento Android.
 
 ## ✍️ Autor
-Yasmin Alves 
-Beatriz Alves 
+Yasmin Alves Gomes,
+Beatriz Alves Gomes.
 Estudantes de Análise e Desenvolvimento de Sistemas
